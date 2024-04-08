@@ -1,0 +1,53 @@
+/* signup.component.css */
+
+div {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+
+  }
+  
+  h1, h3 {
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  span {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  span a {
+    color: #007bff;
+  }
+  
